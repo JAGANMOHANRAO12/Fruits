@@ -1,0 +1,8 @@
+nav li:hover{
+   color: red;
+   cursor: pointer;
+}
+.header{
+   display: flex;
+   flex-direction: row;
+}
